@@ -14,7 +14,7 @@ Traditional stock screeners provide data but lack context. Chatbots provide cont
 
     Technical Logic: Integrated with yfinance to pull live market pricing and calculate 50-day Simple Moving Averages (SMA50).
 
- Deliverables
+ Deliverables:
 
 The agent produces a Structured Investment Memo (PDF) featuring:
 
