@@ -41,14 +41,14 @@ Tech Stack
     PDF Engine: fpdf2
 
  Quick Start
-1. Prerequisites
+1. Prerequisites:
 
 Ensure you have a Google AI Studio API Key. Set it in your environment:
 Bash
 
 export GOOGLE_API_KEY='your_api_key_here'
 
-2. Installation
+2. Installation:
 Bash
 
 # Clone the repository
