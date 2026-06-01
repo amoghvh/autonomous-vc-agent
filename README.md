@@ -1,7 +1,8 @@
  Autonomous VC Analyst Agent
 
 Deterministic Math + Stochastic Reasoning. An AI-driven investment researcher that synthesizes live market data with real-time news catalysts to generate professional-grade VC memos.
- The Problem
+ 
+The Problem
 
 Traditional stock screeners provide data but lack context. Chatbots provide context but lack accuracy. This agent bridges the gap by using a "Researcher-in-the-Loop" architecture: it doesn't just chat about stocks; it performs verifiable research before forming a thesis.
  Core Intelligence
