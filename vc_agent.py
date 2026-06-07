@@ -1,4 +1,4 @@
-"""VC-style snapshot agent using pydantic-ai: maps price vs 50-day MA, news, risk, and recommendation.
+"""VC-style snapshot agent using pydantic-ai : maps price vs 50-day MA, news, risk, and recommendation.
 
 Gemini runs through pydantic-ai's ``google-gla`` provider (Google Generative Language API).
 Set ``GOOGLE_API_KEY`` from Google AI Studio; optional ``PYDANTIC_AI_MODEL`` overrides the full ``provider:model`` id.
