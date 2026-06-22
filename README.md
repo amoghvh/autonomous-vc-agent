@@ -29,7 +29,7 @@ The agent produces a Structured Investment Memo (PDF) featuring:
 
     Actionable Recommendation: Concise, justified investment stances.
 
-Tech Stack
+Tech Stack - 
 
     Language: Python 3.14+
 
