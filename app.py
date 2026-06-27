@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 import streamlit as st
 from fpdf import FPDF
 
+
 from market_check import get_current_quote
 from vc_agent import DEFAULT_MODEL, VCAssessment, assess_risk_sync
 
